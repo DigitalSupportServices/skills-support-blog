@@ -1,0 +1,7 @@
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - my-pages
+    paths:
+      - _config.yml
