@@ -1,5 +1,6 @@
-# Learning Portfolio Template
-*For UK College Students*
+
+## Learning Portfolio Template
+*T LEVEL DBS YEAR 2*
 
 ---
 
@@ -7,32 +8,40 @@
 
 **Name:** ___________________  
 **Course/Programme:** ___________________  
-**Year of Study:** ___________________  
+**Year of Study:** ___2025-26________________  
 **Student ID:** ___________________  
-**Academic Year:** ___________________  
+**Working Grade:** ___________________  
+**Current Grade:** ___________________  
+
+
+
 
 ### Personal Statement
 *Write a brief introduction about yourself, your academic goals, and what you hope to achieve through this portfolio (150-200 words)*
 
 ---
 
+
+
+
 ## Section 1: Academic Work & Achievements
 
 ### Module Portfolio
 *Create a subsection for each module/unit you're studying*
 
-#### Module Name: ___________________
-- **Module Code:** ___________________
-- **Credits:** ___________________
+#### OCCUPATIONAL SPECIALISM Name: ___________________
 - **Learning Outcomes:**
-  - [ ] Outcome 1
-  - [ ] Outcome 2
-  - [ ] Outcome 3
+  - [ ] Performance Outcome 1
+  - [ ] Performance Outcome 2
+  - [ ] Performance Outcome 3
+  - [ ] Performance Outcome 4
+  - [ ] Performance Outcome 5
+  - [ ] Performance Outcome 6
 
 **Key Assignments & Evidence:**
 - Assignment 1: [Title] - Grade: _____ - Date: _____
 - Assignment 2: [Title] - Grade: _____ - Date: _____
-- Portfolio Evidence: [Brief description]
+- Portfolio Evidence: Project-based
 
 **Reflection on Learning:**
 *What did you learn? What challenges did you face? How did you overcome them?*
@@ -41,7 +50,7 @@
 
 ### Academic Progress Tracking
 
-| Semester/Term | Modules Completed | Overall Grade | Key Achievements |
+| Semester/Term | PO Completed     | Overall Grade | Key Achievements |
 |---------------|------------------|---------------|------------------|
 | Term 1        |                  |               |                  |
 | Term 2        |                  |               |                  |
@@ -49,19 +58,25 @@
 
 ---
 
-## Section 2: Skills Development
+# Section 2: Skills Development
 
 ### Academic Skills
 *Rate yourself (1-5) and provide evidence*
 
 | Skill | Self-Rating | Evidence/Examples |
 |-------|-------------|-------------------|
-| Research & Analysis | ___/5 | |
-| Critical Thinking | ___/5 | |
-| Academic Writing | ___/5 | |
-| Referencing & Citation | ___/5 | |
-| Time Management | ___/5 | |
-| Presentation Skills | ___/5 | |
+| Research & Analysis | ___/5 |           |
+| Critical Thinking   | ___/5 |           |
+| Academic Writing    | ___/5 |           |
+| Statistics          | ___/5 |           |
+| Time Management     | ___/5 |           |
+| Presentation Skills | ___/5 |           |
+| English and Maths   | ___/5 |           |
+| Project Management  | ___/5 |           |
+| Digital Skills      | ___/5 |           |
+| Presentation Skills | ___/5 |           |
+
+
 
 ### Transferable Skills
 *Document skills relevant to your future career*
@@ -76,7 +91,7 @@
 
 ---
 
-## Section 3: Reflective Learning
+# Section 3: Reflective Learning
 
 ### Learning Reflection Template
 *Use this format for regular reflections*
@@ -113,7 +128,7 @@
 
 ---
 
-## Section 4: Professional Development
+# Section 4: Professional Development
 
 ### Career Planning
 
@@ -160,7 +175,7 @@
 
 ---
 
-## Section 5: Evidence Repository
+# Section 5: Evidence Repository
 
 ### Digital Evidence Log
 *Keep track of all supporting documents*
@@ -176,8 +191,8 @@
 ### Feedback Collection
 *Gather feedback from tutors, peers, employers*
 
-#### Tutor Feedback
-**Module:** ___________________  
+#### Mentorship Feedback
+**Mentor name:** ___________________  
 **Date:** ___________________  
 **Feedback Summary:**
 
@@ -185,6 +200,10 @@
 - [ ] 
 - [ ] 
 - [ ] 
+- [ ]
+- [ ]
+- [ ]
+
 
 #### Peer Feedback
 **Context:** ___________________  
@@ -193,7 +212,7 @@
 
 ---
 
-## Section 6: Goal Setting & Action Planning
+# Section 6: Goal Setting & Action Planning
 
 ### SMART Goals Framework
 
