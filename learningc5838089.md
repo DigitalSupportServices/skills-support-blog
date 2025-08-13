@@ -1,4 +1,92 @@
+<style>
+/* Simple colour styling for the template */
 
+body {
+  background: #f4f6fa;
+  color: #222;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  padding: 32px;
+}
+
+h1, h2, h3, h4 {
+  color: #2763bc;
+  margin-top: 1.7em;
+}
+
+h2 {
+  background-color: #ddebf7;
+  padding: 8px 12px;
+  border-radius: 6px;
+  border-left: 6px solid #2763bc;
+}
+
+h3 {
+  background-color: #e2f0d9;
+  padding: 6px 10px;
+  border-radius: 4px;
+  border-left: 4px solid #548235;
+}
+
+h4 {
+  background-color: #fff2cc;
+  padding: 5px 9px;
+  border-radius: 3px;
+  border-left: 3px solid #bf9000;
+}
+
+table {
+  background: #fff;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 18px 0;
+  box-shadow: 0 2px 10px #eee;
+}
+
+th {
+  background: #bdd7ee;
+  color: #222;
+  padding: 8px;
+  border: 1px solid #a2a2a2;
+}
+
+td {
+  background: #f8f9fd;
+  color: #333;
+  padding: 8px;
+  border: 1px solid #e5e5e5;
+}
+
+tr:nth-child(even) td {
+  background: #eaf1fb;
+}
+
+blockquote, .reflection {
+  background: #fff7ef;
+  border-left: 4px solid #ff9800;
+  padding: 12px 18px;
+  margin: 16px 0;
+}
+
+.checklist {
+  background: #e2f0d9;
+  border-left: 4px solid #548235;
+  padding: 12px 18px;
+  margin: 12px 0;
+}
+
+.mark {
+  background: #ffe699;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-weight: bold;
+}
+
+hr {
+  border: none;
+  border-top: 2px solid #b4c6e7;
+  margin: 36px 0;
+}
+</style>
 ## Learning Portfolio Template
 *T LEVEL DBS YEAR 2*
 
